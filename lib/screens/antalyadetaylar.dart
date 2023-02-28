@@ -1,8 +1,8 @@
-import 'package:bmi_calculator/screens/menu.dart';
+import 'package:tubitak_2204c/screens/menu.dart';
 import 'package:flutter/material.dart';
-import 'package:bmi_calculator/constants.dart';
-import 'package:bmi_calculator/components/reusable_card.dart';
-import 'package:bmi_calculator/components/bottom_button.dart';
+import 'package:tubitak_2204c/constants.dart';
+import 'package:tubitak_2204c/components/reusable_card.dart';
+import 'package:tubitak_2204c/components/bottom_button.dart';
 import 'akdeniz.dart';
 
 class AntalyaDetaylarPage extends StatelessWidget {
